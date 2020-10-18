@@ -43,3 +43,4 @@ app.listen(3006, () => {
     console.log('Server is up on port 3006.')
 })
 
+node_modules
